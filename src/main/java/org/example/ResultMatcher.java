@@ -18,6 +18,7 @@ import java.util.*;
  *
  * <p>
  * The class computes athlete participants times results and make a ranking based on that.
+ * Time result is based on ski time result + shooting range result
  * </p>
  */
 @Data
